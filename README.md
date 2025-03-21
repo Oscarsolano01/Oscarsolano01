@@ -16,6 +16,6 @@ Collaborate with other developers and contribute to real-world projects.
 
 🌱 Why I Love Coding
 
-Coding allows me to build and create solutions that make an impact. I enjoy seeing my ideas come to life through functional and beautiful web applications.
+Coding allows me to build and create solutions that make an impact. I enjoy seeing my ideas come to life through functional web applications.
 
 
